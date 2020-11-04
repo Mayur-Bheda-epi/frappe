@@ -4,6 +4,7 @@
 globals attached to frappe module
 + some utility functions that should probably be moved
 """
+
 from __future__ import unicode_literals, print_function
 
 from six import iteritems, binary_type, text_type, string_types
